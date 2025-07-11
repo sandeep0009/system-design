@@ -1,0 +1,14 @@
+{
+  "name": "lld",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "mongoose": "^8.16.1"
+  }
+}
